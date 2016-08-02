@@ -9,11 +9,13 @@
 
 ##오픈소스
 
-- ![TensorFlowLogo](https://github.com/LucyJeong/awesome-engfordev/blob/master/opensourceLogo/tf_100.png)
+![TensorFlowLogo](https://github.com/LucyJeong/awesome-engfordev/blob/master/opensourceLogo/tf_100.png)
 
 ##TensorFlow
 **issues**
   - bug reporting 할 때
+    - 인풋이 없어도 이렇다는 **점에 주의하세요**
+    - 표현: Note that ~에 주목하세요 / 주의하세요
 
 **Vector Representations of Words tutorial** [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html)
   - is meant to
