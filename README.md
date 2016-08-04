@@ -51,14 +51,14 @@
           - **I guess** this behavior should be mentioned within the documentation.
           - **내 생각에** 문서에 이 행동이 명시되어야 **한다고 생각해.**
           
-        - 난 NaN에 대해서 문제가(어려움이) 있었다.
-          - **I had problems with ~**
-          - 나는 ~에 대해서 문제가 있었어.
-            - (쉬운 예) **I have problem with** this app.
-            - 나는 이 앱과 관련한 문제가 많아.
-            - **I had problems with** NaNs in my pipeline.
-            - 나는 내 파이프라인에 있는 NaNs에 대해 문제가 있어.
-              - problem with: ~와 관련해서 문제가 있다.
+      - 난 NaN에 대해서 문제가(어려움이) 있었다.
+        - **I had problems with ~**
+        - 나는 ~에 대해서 문제가 있었어.
+          - (쉬운 예) **I have problem with** this app.
+          - 나는 이 앱과 관련한 문제가 많아.
+          - **I had problems with** NaNs in my pipeline.
+          - 나는 내 파이프라인에 있는 NaNs에 대해 문제가 있어.
+            - problem with: ~와 관련해서 문제가 있다.
               
       - 넌 몇군데 바꿔야 할 수도 있다.
         - **It is possible (that)~**
@@ -101,9 +101,9 @@
           
   - ###Contribution 할 때
     
-      - 텐서플로우에 ~을 설치해주실 수 있어?
+      - 텐서플로우에 ~을 설치해줄 수 있어?
         - **Could you please?**
-        - ~해주실 수 있어?
+        - ~해줄 수 있어?
           - (쉬운 예)**Could you please** open the window?
           - 창문을 열어줄 수 있어?
           - **Could you please** implement 2D/3D dilated convolution and 2D/3D dilated pooling in TensorFlow?
@@ -112,10 +112,10 @@
       - 텐서플로우가 이미 2D dilated convolution을 지원하는거 같은데.
         - **It look like~**
         - ~ 같다.
-        - (쉬운 예) **It looks like** it's going to rain.
-        - 비가 올 **것 같다.**
-        - **It looks like** TensorFlow already supports 2D dilated convolution.
-        - TensorFlow가 이미 2D dilated convolution을 **지원하는 것 같다.**
+          - (쉬운 예) **It looks like** it's going to rain.
+          - 비가 올 **것 같다.**
+          - **It looks like** TensorFlow already supports 2D dilated convolution.
+          - TensorFlow가 이미 2D dilated convolution을 **지원하는 것 같다.**
         
       - 이미 설명한 것 처럼 나는 데이터를 미리 설치하려고 시도중이다.
         - **attempt to~**
