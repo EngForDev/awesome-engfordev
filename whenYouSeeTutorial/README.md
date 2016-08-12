@@ -1,5 +1,5 @@
-# 튜토리얼을 볼 때
-튜토리얼에 대한 항목은 운영자나 기여자가 공부하고 싶은 것을 기준으로 작성하였습니다. 그래서 표현에 대한 것 보다는 각 튜토리얼을 기준으로 목차를 작성하였습니다. chrome extention인 [diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=ko) 를 사용하여 정리하였습니다. 🔗는 기존의 페이지, 🍎를 diigo링크와 연결되어있습니다.
+# 같이 튜토리얼/문서를 읽어볼까요
+기존에 읽어보고 싶었지만 엄두가 나지 않았던 튜토리얼이나 문서를 같이 공부해봐요. **튜토리얼/문서를 선정하는 기준** 은 따로 없습니다. 공부하고 싶은 것 무엇이든 가능합니다!(와우) 페이지에 노트를 하고 밑줄을 칠 수 있는 chrome extention인 [diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=ko) 를 사용하여 정리하였습니다. 실제로 경험해 보시면 아실꺼에요, 이렇게 읽는게 얼마나 효과적인지. 🔗는 기존의 페이지, 🍎를 diigo링크와 연결되어있습니다.
 
 ## 기여하는 방법
 
@@ -15,7 +15,7 @@
     - 아 이 단어가 이런 뜻이었구나~
 
 3. 크롬 상단의 diigo 아이콘을 클릭한 후 **Share This Page** 에서 **annotated Link** 를 카피한다.
-4. 목차에 해당 튜토리얼의 제목을 추가하고 제목 마지막에 자신의 이름을 추가한다. 원본 링크를 🔗와 연결하고 🍎에 아까 복사해놓은 diigo 링크를 연결한다. 
+4. 목차에 해당 튜토리얼의 제목을 추가하고 제목 마지막에 자신의 이름을 추가한다. 원본 링크를 🔗와 연결하고 🍎에 아까 복사해놓은 diigo 링크를 연결한다.
 
 5. pull request를 보낸다.
 
