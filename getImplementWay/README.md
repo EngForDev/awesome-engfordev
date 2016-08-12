@@ -1,8 +1,8 @@
 # 구현방법에 대해 조언을 구하거나 해주기
 
 ## 목차
-- [조언 구하기]()
-- [조언 해주기]()
+- [조언 구하기](https://github.com/LucyJeong/awesome-engfordev/blob/master/getImplementWay/README.md#조언-구하기)
+- [조언 해주기](https://github.com/LucyJeong/awesome-engfordev/blob/master/getImplementWay/README.md#조언-해주기)
 
 ## 조언 구하기
 
@@ -21,7 +21,6 @@
     - 그녀는 스케줄을 바꾸려고 **시도해 볼** 거라고 말했다.
     - I'm **attempting to** preload data as described here.
     - 여기서 설명한 것 처럼 나는 데이터를 미리 설치 **하려고 시도** 중이다.
-
 
 ## 조언 해주기
 

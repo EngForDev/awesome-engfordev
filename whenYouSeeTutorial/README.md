@@ -1,12 +1,11 @@
 # 튜토리얼을 볼 때
 
 ## 목차
-- [Vector Representations of Words tutorial]()
+- [Vector Representations of Words tutorial](https://github.com/LucyJeong/awesome-engfordev/blob/master/whenYouSeeTutorial/README.md#Vector-Representations-of-Words-tutorial)
 
 
-## 리포팅할때
 
-- ### Vector Representations of Words tutorial[🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html)
+## Vector Representations of Words tutorial[🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html)
   - is meant to
     - 의미: ~할 예정이다
     - 설명: 모양은 수동태의 모양인데 (be + p.p)

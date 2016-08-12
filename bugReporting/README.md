@@ -1,11 +1,11 @@
 # 버그 리포팅
 
 ## 목차
-- [리포팅할때]()
-- [리포팅에 대한 답변을 할 때]()
+- [리포팅할때](https://github.com/LucyJeong/awesome-engfordev/blob/master/bugReporting/README.md#리포팅-할-때)
+- [리포팅에 대한 답변을 할 때](https://github.com/LucyJeong/awesome-engfordev/blob/master/bugReporting/README.md#리포팅에-대한-답변을-할-때)
 
 
-## 리포팅할때
+## 리포팅 할 때
 
 - ### 이 부분을 좀 살펴봐줄래?
   - **Could you take a look at ~**
@@ -99,6 +99,7 @@
       - 너의 말이 맞는 것 같아.
       - **I guess** this behavior should be mentioned within the documentation.
       - **내 생각에** 문서에 이 행동이 명시되어야 **한다고 생각해.**
+
 - ### 넌 몇군데 바꿔야 할 수도 있다.
   - **It is possible (that)~**
   - ~할 가능성이 있다. ~이 가능하다.
@@ -106,6 +107,7 @@
     - 10시에 미팅을 할 가능성이 있다. 10시에 미팅이 가능하다.
     - **It is possible that** you need to change several places to make this work.
     - 너가 이것이 작동되게 하기 위해 몇몇 부분을 바꿔야 할 수도 있다.
+
 - ### 내가 서류를 이해한 바로는
   - **As I understand ~**
   - 내가 ~을 이해한 바로는,
@@ -114,6 +116,7 @@
     - **As I understand** from the documentation,
     - 제가 서류를 이해한 바로는,
     - As는 ~하는 동안에/~한 대로/~때문에/~이긴 하지만 등 다양하게 해석된다. 문맥에 맞게 적절한 의미를 부여하면 된다. (근데 그게 어렵지!)
+    
 - ### ~을 지원하는거 같은데.
   - **It look like~**
   - ~ 하는 것 같다.
