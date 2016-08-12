@@ -19,11 +19,11 @@
 
   - ### [구현방법에 대해 조언을 구하거나 해주기](https://github.com/LucyJeong/awesome-engfordev/blob/master/getImplementWay/README.md)
 
-  - ### [기능에 대해 제안/논의할 때]()
+  - ### [기능에 대해 제안/논의할 때](https://github.com/LucyJeong/awesome-engfordev/blob/master/proposalForFunc/README.md)
 
 
 ## 같이 튜토리얼을 공부해보아요
-영어로 된 튜토리얼을 보고 더이상 뒤로가기 하지 말아요. 우리 같이 서로가 공부하고 싶은 튜토리얼을 잡고 같이 해보아요 :) 👉
+영어로 된 튜토리얼을 보고 더이상 뒤로가기 하지 말아요. 우리 같이 서로가 공부하고 싶은 튜토리얼을 잡고 같이 가볍게 해볼까요? 그냥 공유만 하면 기여할 수 있어요! :) 👉
 [기여하러가기](https://github.com/LucyJeong/awesome-engfordev/blob/master/whenYouSeeTutorial/README.md)
 
 
