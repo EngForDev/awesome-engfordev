@@ -21,7 +21,9 @@
 
 
 ## 목차
-- [Vector Representations of Words tutorial](https://github.com/LucyJeong/awesome-engfordev/blob/master/whenYouSeeTutorial/README.md#Vector-Representations-of-Words-tutorial) [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html) [🍎]() by 나솔
+- Vector Representations of Words tutorial [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html) [🍎]() by 나솔
+- Swift Open Source Contributing [🔗](https://swift.org/contributing/) [🍎](https://diigo.com/08t1l7) by 루시
+
 
 ## Thanks to
-- 나솔
+- 영광스러운 첫 기여자를 찾습니다!
