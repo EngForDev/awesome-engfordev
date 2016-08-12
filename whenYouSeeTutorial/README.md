@@ -15,13 +15,13 @@
     - 아 이 단어가 이런 뜻이었구나~
 
 3. 크롬 상단의 diigo 아이콘을 클릭한 후 **Share This Page** 에서 **annotated Link** 를 카피한다.
-4. 목차에 해당 튜토리얼의 제목과 원본 링크를 🔗와 연결하고 🍎에 아까 복사해놓은 diigo 링크를 연결한다. 그리고 기여자에 이름을 추가해 놓는다.
+4. 목차에 해당 튜토리얼의 제목을 추가하고 제목 마지막에 자신의 이름을 추가한다. 원본 링크를 🔗와 연결하고 🍎에 아까 복사해놓은 diigo 링크를 연결한다. 
 
 5. pull request를 보낸다.
 
 
 ## 목차
-- [Vector Representations of Words tutorial](https://github.com/LucyJeong/awesome-engfordev/blob/master/whenYouSeeTutorial/README.md#Vector-Representations-of-Words-tutorial) [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html) [🍎]()
+- [Vector Representations of Words tutorial](https://github.com/LucyJeong/awesome-engfordev/blob/master/whenYouSeeTutorial/README.md#Vector-Representations-of-Words-tutorial) [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html) [🍎]() by 나솔
 
-## 기여자
+## Thanks to
 - 나솔
