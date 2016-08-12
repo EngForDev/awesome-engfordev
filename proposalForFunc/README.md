@@ -1,9 +1,9 @@
 # 기능에 대해 제안/논의할 때
 
 ## 목차
-- [제안하기]((https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#제안하기)
-- [논의하기]((https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#논의하기)
-- [Pull Request 하기]((https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#Pull-Request-하기)
+- [제안하기](https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#제안하기)
+- [논의하기](https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#논의하기)
+- [Pull Request 하기](https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#Pull-Request-하기)
 
 ## 제안하기
 
