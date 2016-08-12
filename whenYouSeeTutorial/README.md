@@ -1,5 +1,5 @@
 # 튜토리얼을 볼 때
-튜토리얼에 대한 항목은 운영자나 기여자가 공부하고 싶은 것을 기준으로 작성하였습니다. 그래서 표현에 대한 것 보다는 각 튜토리얼을 기준으로 목차를 작성하였습니다. chrome extention인 [diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=ko) 를 사용하여 정리하였으므로 diigo 링크롤 보시는걸 추천합니다. (많이 깨지긴 하지만..) 🔗는 기존의 페이지, 🍎를 diigo링크와 연결되어있습니다.
+튜토리얼에 대한 항목은 운영자나 기여자가 공부하고 싶은 것을 기준으로 작성하였습니다. 그래서 표현에 대한 것 보다는 각 튜토리얼을 기준으로 목차를 작성하였습니다. chrome extention인 [diigo](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=ko) 를 사용하여 정리하였습니다. 🔗는 기존의 페이지, 🍎를 diigo링크와 연결되어있습니다.
 
 ## 기여하는 방법
 
