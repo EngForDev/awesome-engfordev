@@ -1,8 +1,8 @@
 # 버그 리포팅
 
 ## 목차
-- [리포팅할때](https://github.com/LucyJeong/awesome-engfordev/blob/master/bugReporting/README.md#리포팅-할-때)
-- [리포팅에 대한 답변을 할 때](https://github.com/LucyJeong/awesome-engfordev/blob/master/bugReporting/README.md#리포팅에-대한-답변을-할-때)
+- [리포팅할때](https://github.com/EngForDev/awesome-engfordev/tree/master/bugReporting/README.md#리포팅-할-때)
+- [리포팅에 대한 답변을 할 때](https://github.com/EngForDev/awesome-engfordev/tree/master/bugReporting/README.md#리포팅에-대한-답변을-할-때)
 
 
 ## 리포팅 할 때
@@ -116,7 +116,7 @@
     - **As I understand** from the documentation,
     - 제가 서류를 이해한 바로는,
     - As는 ~하는 동안에/~한 대로/~때문에/~이긴 하지만 등 다양하게 해석된다. 문맥에 맞게 적절한 의미를 부여하면 된다. (근데 그게 어렵지!)
-    
+
 - ### ~을 지원하는거 같은데.
   - **It look like~**
   - ~ 하는 것 같다.

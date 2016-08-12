@@ -1,8 +1,8 @@
 # 구현방법에 대해 조언을 구하거나 해주기
 
 ## 목차
-- [조언 구하기](https://github.com/LucyJeong/awesome-engfordev/blob/master/getImplementWay/README.md#조언-구하기)
-- [조언 해주기](https://github.com/LucyJeong/awesome-engfordev/blob/master/getImplementWay/README.md#조언-해주기)
+- [조언 구하기](https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#조언-구하기)
+- [조언 해주기](https://github.com/EngForDev/awesome-engfordev/tree/master/getImplementWay/README.md#조언-해주기)
 
 ## 조언 구하기
 
