@@ -23,7 +23,7 @@
 ## 목차
 - Vector Representations of Words tutorial [🔗](https://www.tensorflow.org/versions/r0.9/tutorials/word2vec/index.html) [🍎]() by 나솔
 - Swift Open Source Contributing [🔗](https://swift.org/contributing/) [🍎](https://diigo.com/08t1l7) by 루시
-- BTrace Java Tracing Tool [🔗](https://kenai.com/projects/btrace/pages/UserGuide/) [🍎](https://diigo.com/08t47e) by devarchi33
+- BTrace Java Tracing Tool [🔗](https://kenai.com/projects/btrace/pages/UserGuide/) [🍎](https://diigo.com/08t49s) by devarchi33
 
 
 ## Thanks to
