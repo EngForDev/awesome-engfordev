@@ -7,7 +7,7 @@
 ## 조언 구하기
 
 - ### ~ 하는 방법이 있어?
-  - **Is there any way ~**
+  - **Is there any way \~**
   - ~을 하는 방법이 있니?
     - (쉬운 예) **Is there any way** that I can contact her?
     - 내가 그녀에 연락할 방법이 있어?
@@ -68,7 +68,7 @@
   - Optimzer를 상속하는 클래스들을 찾아라.
 
 - ### 그걸 처리할 수 있는 데는 몇 가지 방식(방법)이 있어.
-  - **There are a few ways one could ~**
+  - **There are a few ways one could \~**
   - ~을 할 수 있는 데는 몇 가지 방식이 있어.
   - (쉬운 예) **There are a few ways one could** be an awesome developer.
   - 멋진 개발자가 되기 위한 몇 가지 방법이 있지.

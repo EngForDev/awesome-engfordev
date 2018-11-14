@@ -32,7 +32,7 @@
   - 나는 방문자들이 이 파일들을 쉽게 찾을 수 있도록 모든 안내관련 또는 소스가 아닌 파일들을 Tensorflow의 상위에 위치한, 동일한 디렉토리에다 위치시키는 것을 제안한다.
 
 - ### 방문자들이 그들을 쉽게 찾을 수 있도록 이렇게 하자.
-  - **.. so (that) ~**
+  - **.. so (that) \~**
   - ~하도록
   - (쉬운 예) Let’s have a meal now **so** we won’t be hungry later.
   - 나중에 배고프지 않도록 지금 밥 먹자.
@@ -40,7 +40,7 @@
   - 방문자들이 그들을 쉽게 찾을 수 있도록 이렇게 하자.
 
 - ### 제안 1은 root에 디렉토리를 두는 것이다.
-  - **Suggestion 1 is to ~**
+  - **Suggestion 1 is to \~**
   - 제안 1은 ~ 이다.
   - (쉬운 예) **Suggestion 1** is to have a meal now.
   - 제안 1은 지금 밥 먹는거야.
@@ -66,7 +66,7 @@
 - 나는 하나의, 간단한 변화가 디렉토리 구조를 꽤나 간단하게 만들 것이라 생각해.
 
 - ### Tensorflow는 여러 커뮤니케이션 프로토콜을 지원한다.
-  - **support ~** (동사로 쓰인 support)
+  - **support \~** (동사로 쓰인 support)
   - ~을 지원하다
   - (쉬운 예) The company will support customers in Europe.
   - 그 회사는 유럽 내에 있는 고객들을 지원할 것이다
@@ -74,7 +74,7 @@
   - Tensorflow는 RDMA over Converged Ethermet과 같은 다양한 커뮤니이션 프로토콜을 지원한다
 
 - ### ~만을 가지고 있다.
-  - **~ only have**
+  - **\~ only have**
   - ~만을 가지고 있다, ~밖에 없다
   - (쉬운 예) I **only have** a younger sister.
   - 나는 여동생만 있어.
@@ -116,7 +116,7 @@
   - (아마 complex numbers에 한정된 에러를 throw하는 것으로 충분할 것 같네요)
 
 - ### ~ 필요함
-  - **~ needed**
+  - **\~ needed**
   - ~가 필요함
   - (쉬운 예) Car for 8 people **needed**
   - 8인승 차 필요함
@@ -126,7 +126,7 @@
 ## Pull Request 하기
 
 - ### PR을 제출하게 되어 기뻐!
-  - **Happy to ~**
+  - **Happy to \~**
   - ~을 하게 되어 기뻐!
   - PR은 pull request를 줄임말
   - (쉬운 예) I’m **happy to** hear your news!
@@ -135,7 +135,7 @@
   - 이런 변경사항들을 만드는 것을 팀이 원한다면 기꺼이 PR을 날릴게.
 
 - ### PR 해주신다면 정말 감사드리겠습니다.
-  - **~ would be greatly appreciated**
+  - **\~ would be greatly appreciated**
   - ~ 해주신다면 정말 감사드리겠습니다.
   - (쉬운 예)  Any help **would be greatly appreciated.**
   - 그 어떠한 도움이라도 주시면 정말 감사드리겠습니다.
