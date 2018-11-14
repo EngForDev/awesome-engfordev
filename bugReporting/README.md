@@ -8,7 +8,7 @@
 ## 리포팅 할 때
 
 - ### 이 부분을 좀 살펴봐줄래?
-  - **Could you take a look at ~**
+  - **Could you take a look at \~**
   - ~을 살펴봐줄 수 있어? (살펴봐줄래?)
     - (쉬운 예) **Could you take a look at my computer?**
     - 내 컴퓨터 한번 **살펴봐주래?**
@@ -16,7 +16,7 @@
     - 이 부분 좀 살펴봐줄 수 있니?
 
 - ### ~을 사용하다가 이런 문제가 생겼다.
-  - **I faced ... using ~**
+  - **I faced ... using \~**
   - 나는 ~을 사용하다가 ...에 직면했다. (어떤 문제 등이 생겼다.)
     - (쉬운 예) **I faced** a problem **using** the computer.
     - 컴퓨터를 **사용하는 중에** 문제가 **나타났어.**
@@ -28,7 +28,7 @@
 
 
 - ### 난 ~에 대해서 문제가(어려움이) 있었다.
-  - **I had problems with ~**
+  - **I had problems with \~**
   - 나는 ~에 대해서 문제가 있었어.
     - (쉬운 예) **I have problem with** this app.
     - 나는 이 앱과 관련한 문제가 많아.
@@ -38,7 +38,7 @@
 
 
 - ### Server를 위해 서류를 검토하는 도중에
-  - **look through ~**
+  - **look through \~**
   - ~를 검토하다
     - (쉬운 예) Please **look through** the report.
     - 레포트를 **검토해줘**
@@ -71,7 +71,7 @@
 
 
 - ### ~하는 방법이 있어?
-  - **Is there any way ~**
+  - **Is there any way\~**
   - ~을 하는 방법이 있니?
     - (쉬운 예) **Is there any way** that I can contact her?
     - 내가 그녀에 연락할 방법이 있어?
@@ -159,7 +159,7 @@
     - 이건 아마도 (B)와 (C) 사이의 (A) 때문에 생긴 걸 거야
 
 - ### ~점에 주의해
-  - **Note that ~**
+  - **Note that \~**
   - ~에 주목하다 / 주의하다
     - (쉬운 예) **Note that** this is poisonous.
     - 이것이 독성이 있다는 **점에 주목해.**
@@ -187,7 +187,7 @@
     - 너가 이것이 작동되게 하기 위해 몇몇 부분을 바꿔야 할 수도 있다.
 
 - ### 내가 서류를 이해한 바로는
-  - **As I understand ~**
+  - **As I understand \~**
   - 내가 ~을 이해한 바로는,
     - (쉬운 예) **As I understand** your opinion, you do not agree with me, right?
     - 내가 네 의견을 이해한 바로는, 넌 나에게 동의하지 않아. 맞지?
